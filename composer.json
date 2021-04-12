@@ -1,0 +1,11 @@
+{
+    "name": "wcs/autoload",
+    "type": "quest",
+    "description": "",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
